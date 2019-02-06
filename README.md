@@ -5,3 +5,6 @@ Naive Bayes (w/o library) + Decision Tree
 
 ### Homework 2
 SVM (w/o library)
+
+### Homework 3 & 4
+PCA
