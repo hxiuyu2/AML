@@ -7,4 +7,4 @@ Naive Bayes (w/o library) + Decision Tree
 SVM (w/o library)
 
 ### Homework 3 & 4
-PCA
+PCA and PCoA (w/o library)
