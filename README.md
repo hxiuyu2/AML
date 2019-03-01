@@ -8,3 +8,6 @@ SVM (w/o library)
 
 ### Homework 3 & 4
 PCA and PCoA (w/o library)
+
+### Homework 5
+Vector quantization
