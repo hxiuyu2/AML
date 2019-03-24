@@ -11,3 +11,6 @@ PCA and PCoA (w/o library)
 
 ### Homework 5
 Vector quantization
+
+### Homework 7
+BOW, text retrieval and logistic regression
