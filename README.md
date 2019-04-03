@@ -14,3 +14,6 @@ Vector quantization
 
 ### Homework 7
 BOW, text retrieval and logistic regression
+
+### Homework 8
+Neural Network with PyTorch and visualize with Tensorboard
