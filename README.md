@@ -17,3 +17,6 @@ BOW, text retrieval and logistic regression
 
 ### Homework 8
 Neural Network with PyTorch and visualize with Tensorboard
+
+### DT + KNN
+CS 412 (Data Mining) Assignment 3, implementing simplified Decision Tree and KNN algorithm without library, including numpy and pandas
